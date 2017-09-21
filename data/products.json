@@ -1,0 +1,49 @@
+[{
+        "id": "1",
+        "brand": "amul",
+        "category": "milk",
+        "description": "A one milk with rich calcium and protien",
+        "review": "very good milk for children",
+        "location": {
+            "aisle": "46",
+            "orientation": "left",
+            "modsequence": "13",
+            "shelf": "B",
+            "position": 1,
+            "facing": 1
+        }
+
+    },
+    {
+        "id": "2",
+        "brand": "goodlife",
+        "category": "milk",
+        "description": "A one milk with rich calcium",
+        "review": "very good milk for children",
+        "location": {
+            "aisle": "46",
+            "orientation": "right",
+            "modsequence": "13",
+            "shelf": "B",
+            "position": 1,
+            "facing": 2
+        }
+
+    },
+    {
+        "id": "3",
+        "brand": "surf excel",
+        "category": "detergent",
+        "description": "good detergent for washing mahcine",
+        "review": "",
+        "location": {
+            "aisle": "48",
+            "orientation": "top",
+            "modsequence": "13",
+            "shelf": "B",
+            "position": 1,
+            "facing": 2
+        }
+
+    }
+]

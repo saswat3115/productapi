@@ -1,0 +1,17 @@
+{
+  "name": "location",
+  "version": "1.0.0",
+  "description": "locatoin api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "heros",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "diskdb": "^0.1.17",
+    "express": "^4.15.4",
+    "method-override": "^2.3.9"
+  }
+}
